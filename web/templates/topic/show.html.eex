@@ -9,4 +9,7 @@
 <div class="input-field">
   <textarea class="materialize-textarea"></textarea>
   <button class="btn">Add a Comment</button>
+  <ul class="collection">
+
+  </ul>
 </div>
